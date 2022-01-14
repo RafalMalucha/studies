@@ -1,0 +1,18 @@
+{
+    "name": "Micha\u0142",
+    "surname": "G\u0142u\u015b",
+    "age": 20,
+    "isGoodStudent": false,
+    "friends": null,
+    "grades": {
+        "tpi": 2.0,
+        "maths": 2.0,
+        "ask": 2.0,
+        "pp1": 2.0,
+        "oiz": 2.0,
+        "edi": 2.0,
+        "english": 4.5,
+        "italian": 3.0,
+        "pe": 3.5
+    }
+}
